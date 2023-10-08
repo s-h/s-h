@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=s-h&show_icons=true)
 <!--START_SECTION:badges-->
+[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/49047bcf-5f06-4c74-8a89-097522a2b3fd "CKAD: Certified Kubernetes Application Developer")
+[![CKS: Certified Kubernetes Security Specialist](https://images.credly.com/size/110x110/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](http://www.credly.com/badges/35c3dcab-db83-45ba-9260-ea70e771892f "CKS: Certified Kubernetes Security Specialist")
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/c9295501-7f8c-4342-89cb-2126eb00c69e "CKA: Certified Kubernetes Administrator")
 <!--END_SECTION:badges-->
