@@ -1,7 +1,6 @@
 ### Hi there 👋 Welcome to my GitHub!
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+
 <!--
 **itgoyo/itgoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=s-h&show_icons=true)
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
