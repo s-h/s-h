@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 [![CKS: Certified Kubernetes Security Specialist](https://images.credly.com/size/110x110/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](http://www.credly.com/badges/35c3dcab-db83-45ba-9260-ea70e771892f "CKS: Certified Kubernetes Security Specialist")
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/c9295501-7f8c-4342-89cb-2126eb00c69e "CKA: Certified Kubernetes Administrator")
 <!--END_SECTION:badges-->
+
+<script src="https://gist.github.com/s-h/653b22d9889cbee57aae58c9cd4b77a9.js"></script>
